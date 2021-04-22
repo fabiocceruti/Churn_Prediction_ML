@@ -16,7 +16,7 @@ Para fins de predição, foram avaliados os seguintes modelos com base na métri
 * KNN
 * XGBoost
 
-Este projeto se encontra publicado no meu blog no [Medium](https://fabiocceruti.medium.com/churn-prediction-de-uma-empresa-de-telecomunica%C3%A7%C3%B5es-5832b324c5a)
+Este projeto se encontra publicado no meu blog no [Medium](https://fabiocceruti.medium.com/churn-prediction-de-uma-empresa-de-telecomunica%C3%A7%C3%B5es-5832b324c5a).
 
 Entre em contato em caso de dúvida. Estou sempre à disposição.
 
